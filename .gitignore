@@ -1,0 +1,64 @@
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history/*
+
+# IDE - IntelliJ
+.idea/
+*.iml
+*.iws
+*.ipr
+.idea_modules/
+
+# OS Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Build outputs
+build/
+dist/
+out/
+target/
+*.apk
+*.aab
+*.log
+
+# Gradle files
+.gradle/
+gradle-app.setting
+!gradle-wrapper.jar
+
+# Local configuration file
+local.properties
+
+# Kotlin
+*.class
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
