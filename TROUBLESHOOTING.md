@@ -11,7 +11,7 @@ This guide helps resolve common issues when working with this repository.
 **Common Causes**:
 
 1. **USB Drive File System Issues**
-   - USB drives often use FAT32 or exFAT file systems which have limitations
+   - USB drives often use FAT32 or ExFAT file systems which have limitations
    - Case sensitivity issues between operating systems
    - Symbolic links may not work properly on USB drives
    - File path length limitations on certain file systems

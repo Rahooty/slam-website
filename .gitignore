@@ -34,7 +34,7 @@ target/
 
 # Gradle files
 .gradle/
-gradle-app.setting
+gradle-app.settings
 !gradle-wrapper.jar
 
 # Local configuration file
